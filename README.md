@@ -1,3 +1,7 @@
+# Stopwatch using ReactJS ⚛
+
+Live demo - [https://srikanth-kandi.github.io/react-stopwatch/](https://srikanth-kandi.github.io/react-stopwatch/)
+
 In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
